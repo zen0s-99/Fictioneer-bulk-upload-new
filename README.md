@@ -124,11 +124,4 @@ Development of this plugin takes place on GitHub:
 Pull requests and issue reporting are welcome!
 
 
-Contributors: zen0s
-Author URI: https://github.com/zen0s-99
-Tags: bulk upload, chapters, story, fictioneer, zip, schedule, password, expiration
-Requires at least: 5.0
-Tested up to: (The latest WordPress version you've tested with, e.g., 6.4)
-Stable tag: 1.3
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
