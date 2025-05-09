@@ -1,4 +1,4 @@
-=== Bulk Chapter Upload ===
+=== Bulk Chapter Upload Plugin for Fictioneer ===
 
 Bulk upload chapters from a ZIP file for your stories, with advanced scheduling, password protection, and password expiration features. Designed to integrate with themes using the Fictioneer framework.
 
